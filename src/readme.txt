@@ -1,0 +1,1 @@
+GUI目录下为GUI.exe对应的源码，NewsRetrievalSystem目录下为query.exe对应的源码
